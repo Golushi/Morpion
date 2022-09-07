@@ -70,6 +70,7 @@ h1 {
     .cell {
         height: 100px;
         width: 100px;
+        font-size: 80px;
     }
     .board {
         width: 300px;
