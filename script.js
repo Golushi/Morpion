@@ -61,7 +61,7 @@ function updateGameStatus(status) {
             statusText = "Le joueur (X) a gagné!";
             break;
         case 'winsO':
-            statusText = "Le joueur (X) a gagné!";
+            statusText = "Le joueur (O) a gagné!";
             break;
         case 'draw':
             statusText = "Egalité!";
